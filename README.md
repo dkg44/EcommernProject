@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# E-COMMERCE Website Using MERN tech
 
 # Install Dependencies
 
