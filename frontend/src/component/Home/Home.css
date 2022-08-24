@@ -1,5 +1,6 @@
 .banner {
-  background-image: url("../../images/cover.jfif");
+/*   background-image: url("../../images/cover.jfif"); */
+  background-image: url("https://res.cloudinary.com/dhcbofixn/image/upload/v1661336751/front%20page%20ecom/ecommerce_background_img_icldqr.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
