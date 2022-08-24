@@ -21,7 +21,7 @@ const About = () => {
               src="https://res.cloudinary.com/dhcbofixn/image/upload/v1661335307/avatars/1643040939444_oyrl0t.jpg"
               alt="Founder"
             />
-            <Typography>Abhishek Singh</Typography>
+            <Typography>DHIRAJ KUMAR GAUTAM</Typography>
             <Button onClick={visitInstagram} color="primary">
               Visit Instagram
             </Button>
